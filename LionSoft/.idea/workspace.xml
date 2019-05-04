@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27ad1a1a-b9f9-48e3-8ea8-48341d40fc24" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/api-test/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>password</find>
+      <find>sendFailedLoginResponse</find>
+      <find>BearerTokenResponse</find>
+      <find>League\OAuth2\Server\Entities\AccessTokenEntityInterface</find>
+      <find>BearerTokenResponse extends</find>
+      <find>class BearerTokenResponse extends AbstractResponseType</find>
+      <find>where</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\www\LionSoft\api-test</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api-test/.env" />
+        <option value="$PROJECT_DIR$/api-test/database/seeds/DatabaseSeeder.php" />
+        <option value="$PROJECT_DIR$/api-test/config/auth.php" />
+        <option value="$PROJECT_DIR$/api-test/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/api-test/app/Exceptions/Handler.php" />
+        <option value="$PROJECT_DIR$/api-test/vendor/league/oauth2-server/src/ResponseTypes/BearerTokenResponse.php" />
+        <option value="$PROJECT_DIR$/api-test/app/Providers/AuthServiceProvider.php" />
+        <option value="$PROJECT_DIR$/api-test/app/Post.php" />
+        <option value="$PROJECT_DIR$/api-test/app/User.php" />
+        <option value="$PROJECT_DIR$/api-test/routes/api.php" />
+        <option value="$PROJECT_DIR$/api-test/resources/lang/pt/validation.php" />
+        <option value="$PROJECT_DIR$/api-test/config/app.php" />
+        <option value="$PROJECT_DIR$/api-test/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/api-test/app/Http/Controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/api-test/app/Http/Controllers/Auth/ApiLoginController.php" />
+        <option value="$PROJECT_DIR$/api-test/database/migrations/2019_04_04_203044_create_posts_table.php" />
+        <option value="$PROJECT_DIR$/api-test/database/factories/UserFactory.php" />
+        <option value="$PROJECT_DIR$/api-test/clients" />
+        <option value="$PROJECT_DIR$/api-test/app/Http/Controllers/PostController.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/api-test/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/api-test/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/api-test/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/api-test/vendor/league/event" />
+      <path value="$PROJECT_DIR$/api-test/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/api-test/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/api-test/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/api-test/vendor/laravel/passport" />
+      <path value="$PROJECT_DIR$/api-test/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/api-test/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/api-test/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/api-test/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/api-test/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/api-test/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/api-test/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/api-test/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/api-test/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/api-test/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/api-test/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/api-test/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/api-test/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/api-test/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/api-test/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/api-test/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/api-test/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/api-test/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/api-test/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/api-test/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/api-test/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/api-test/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/api-test/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/api-test/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/api-test/vendor/defuse/php-encryption" />
+      <path value="$PROJECT_DIR$/api-test/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/api-test/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/api-test/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/api-test/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/api-test/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/api-test/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/api-test/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/api-test/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/api-test/vendor/composer" />
+      <path value="$PROJECT_DIR$/api-test/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/api-test/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/api-test/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/api-test/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/api-test/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/api-test/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/api-test/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/api-test/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/api-test/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/api-test/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/api-test/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/api-test/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/api-test/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/api-test/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/api-test/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/api-test/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/api-test/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/api-test/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/api-test/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/api-test/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/api-test/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/api-test/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/api-test/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/api-test/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/api-test/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/api-test/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/api-test/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/api-test/vendor/league/oauth2-server" />
+      <path value="$PROJECT_DIR$/api-test/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/api-test/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/api-test/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/api-test/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/api-test/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/api-test/vendor/fideloper/proxy" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="500" />
+    <option name="y" value="81" />
+    <option name="width" value="988" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LionSoft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LionSoft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LionSoft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LionSoft" type="462c0819:PsiDirectoryNode" />
+              <item name="api-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LionSoft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LionSoft" type="462c0819:PsiDirectoryNode" />
+              <item name="api-test" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LionSoft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LionSoft" type="462c0819:PsiDirectoryNode" />
+              <item name="api-test" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LionSoft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LionSoft" type="462c0819:PsiDirectoryNode" />
+              <item name="api-test" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LionSoft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LionSoft" type="462c0819:PsiDirectoryNode" />
+              <item name="api-test" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LionSoft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LionSoft" type="462c0819:PsiDirectoryNode" />
+              <item name="api-test" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LionSoft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LionSoft" type="462c0819:PsiDirectoryNode" />
+              <item name="api-test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27ad1a1a-b9f9-48e3-8ea8-48341d40fc24" name="Default Changelist" comment="" />
+      <created>1554408013779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554408013779</updated>
+      <workItem from="1554408015936" duration="5003000" />
+      <workItem from="1554459914873" duration="40384000" />
+      <workItem from="1554732420870" duration="939000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="51151000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29637527" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3261105" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Devmedia/carrinhoDeCompras/app/Http/Controllers/CarrinhoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3000">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="65" column="64" lean-forward="true" selection-start-line="65" selection-start-column="64" selection-end-line="65" selection-end-column="64" />
+          <folding>
+            <element signature="e#28#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/app/Http/Controllers/Auth/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/app/Http/Controllers/LoginController.php" />
+    <entry file="file://$PROJECT_DIR$/api-test/app/Exceptions/Handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
+          <folding>
+            <element signature="e#34#48#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/vendor/composer/autoload_static.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="2247" column="48" selection-start-line="2247" selection-start-column="48" selection-end-line="2247" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/vendor/composer/autoload_classmap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="1808" column="44" selection-start-line="1808" selection-start-column="44" selection-end-line="1808" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/vendor/league/oauth2-server/src/AuthorizationServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#6#211#0#PHP" expanded="true" />
+            <element signature="e#246#263#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/vendor/league/oauth2-server/src/Repositories/AccessTokenRepositoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+          <folding>
+            <element signature="e#259#320#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/app/Providers/AuthServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#33#51#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/vendor/league/oauth2-server/src/ResponseTypes/BearerTokenResponse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fullstacktest/API RESTFUL/1.0.004/fullstack-test/app/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fullstacktest/API RESTFUL/1.0.004/fullstack-test/app/Http/Controllers/PostController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1786">
+          <caret line="113" column="9" lean-forward="true" selection-start-line="85" selection-start-column="8" selection-end-line="113" selection-end-column="9" />
+          <folding>
+            <element signature="e#40#55#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fullstacktest/API RESTFUL/1.0.004/fullstack-test/app/Http/Controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="95" column="9" lean-forward="true" selection-start-line="84" selection-start-column="8" selection-end-line="95" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Armazenar/Backup Comas/05-02-2019/appComas/app/Cargo.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Armazenar/Backup Comas/05-02-2019/appComas/app/Familia.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Armazenar/Backup Comas/05-02-2019/appComas/app/User.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Armazenar/Backup Comas/05-02-2019/appComas/app/Funcionario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Armazenar/Backup Comas/05-02-2019/appComas/app/Http/Controllers/FamiliaController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Armazenar/Backup Comas/05-02-2019/appComas/app/Http/Controllers/CargoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Armazenar/Backup Comas/05-02-2019/appComas/app/Http/Controllers/FuncionarioController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="52" column="54" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Devmedia/carrinhoDeCompras/app/PedidoProduto.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Devmedia/carrinhoDeCompras/app/Produto.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Devmedia/carrinhoDeCompras/app/Pedido.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="16" column="72" lean-forward="true" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Em produção/fullstacktest/API RESTFUL/1.0.005/fullstacktest/app/Http/Controllers/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/resources/lang/pt/validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="127" column="35" selection-start-line="127" selection-start-column="35" selection-end-line="127" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/app/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <element signature="e#23#63#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/app/Http/Controllers/Auth/ApiLoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="90" column="53" selection-start-line="90" selection-start-column="53" selection-end-line="90" selection-end-column="53" />
+          <folding>
+            <element signature="e#45#81#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding>
+            <element signature="e#7#45#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa9912.41743/UserFactory.php" />
+    <entry file="file://$PROJECT_DIR$/api-test/database/factories/UserFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="12" column="70" lean-forward="true" selection-start-line="12" selection-start-column="70" selection-end-line="12" selection-end-column="70" />
+          <folding>
+            <element signature="e#7#20#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/app/Http/Controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding>
+            <element signature="e#40#53#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/clients">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa11552.49794/PostController.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa11552.46267/PostController.php" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="318">
+            <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13380.8624/PostController.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa11148.28948/PostController.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7740.44315/PostController.php" />
+    <entry file="file://$PROJECT_DIR$/api-test/app/Http/Controllers/PostController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1780">
+          <caret line="143" column="30" lean-forward="true" selection-start-line="143" selection-start-column="30" selection-end-line="143" selection-end-column="30" />
+          <folding>
+            <element signature="e#40#53#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6944.17557/PostController.php" />
+    <entry file="file://$PROJECT_DIR$/api-test/database/migrations/2019_04_04_203044_create_posts_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api-test/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
