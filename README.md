@@ -13,8 +13,8 @@ Repositório com Processos Seletivos Realizados Por Empresas Para Vagas de Desen
 | Desafio Programador PHP |    https://github.com/devssa/no-pain-no-brain/tree/master/Polvo/Desenvolvedor%20PHP  |
 | Desafio Desenvolvedor Wordpress |    https://github.com/devssa/no-pain-no-brain/tree/master/Polvo/Desenvolvedor%20WordPress  |
 | Desafio Estágio Backend |    https://github.com/devssa/no-pain-no-brain/tree/master/Polvo/Est%C3%A1gio%20Backend  |
-| **_1_** |    [Redis]  | Intermediário  |
-| **_1_** |    [Flutter]  | Intermediário  |
+| Teste prático - PHP Junior |    https://github.com/devssa/no-pain-no-brain/tree/master/Autogestor/PHP%20Junior  |
+| Teste prático - Laravel |    https://github.com/devssa/no-pain-no-brain/tree/master/Autogestor/Programador%20Laravel  |
 | **_1_** |    [VUE]  | Intermediário  |
 | **_5_** |    [GIT]  | Avançado  |
 | **_5_** |    [PSR]  | Avançado  |
