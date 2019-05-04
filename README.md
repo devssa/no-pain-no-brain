@@ -6,8 +6,8 @@ Repositório com Processos Seletivos Realizados Por Empresas Para Vagas de Desen
 
 | **Titulo**  | **Link**  |
 |---|---|
-| **LionSoft** Teste Programador PHP| https://github.com/devssa/no-pain-no-brain/tree/master/LionSoft |
-| **uNKNOWN_01** Teste Prático de PHP para novos Colaboradores |  https://github.com/devssa/no-pain-no-brain/tree/master/Unknown_01  |
+| Teste Programador PHP | https://github.com/devssa/no-pain-no-brain/tree/master/LionSoft |
+| Teste Prático de PHP para novos Colaboradores |  https://github.com/devssa/no-pain-no-brain/tree/master/Unknown_01  |
 | **_1_** |    [OpenCart]  | Newbie |
 | **_1_** |    [AWS]  | Newbie  |
 | **_2_** |    [Passport]  | Newbie  |
@@ -21,3 +21,6 @@ Repositório com Processos Seletivos Realizados Por Empresas Para Vagas de Desen
 | **_5_** |    [PSR]  | Avançado  |
 
 ------------
+
+O conteúdo foi coletado do github e não é de nossa autoria, o repositório original foi forkado e está entre nossos repositorios públicos.
+
