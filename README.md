@@ -1,6 +1,6 @@
 # No Pain No Brain
 
-Repositório com processos seletivos realizados por empresas para vagas de desenvolvimento; o conteúdo foi coletado do github e não é de nossa autoria, o repositório original foi forkado e está entre nossos repositorios públicos: caso queria que o conteúdo seja removido por ser de sua autoria basta notificar via Issue.
+Repositório com processos seletivos realizados por empresas para vagas de desenvolvimento. O conteúdo foi coletado do github e não é de nossa autoria.
 
 
 
@@ -24,4 +24,4 @@ Repositório com processos seletivos realizados por empresas para vagas de desen
 
 ------------
 
-## Caso queira auxiliar upando conteúdo sinaliza via Issue, sua ajuda será muito bem vinda :D
+
