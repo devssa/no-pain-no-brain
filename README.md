@@ -2,9 +2,16 @@
 
 Repositório com processos seletivos realizados por empresas para vagas de desenvolvimento. O conteúdo foi coletado do github e não é de nossa autoria.
 
+Grupo do telegram https://t.me/joinchat/HqtPshCIreH1HyhlxNed8w
+
+## Qual o objetivo?
+
+Nesse espaço, a pessoa que está em busca de uma nova oportunidade no mercado,
+ou em busca de recolocação, poderá testar sua capacidade em testes reais
+feitos por empresas.
 
 
-## Processos Seletivo Programador PHP
+## Processos Seletivos Programador PHP
 
 | **Titulo**  | **Link**  |
 |---|---|
@@ -24,4 +31,15 @@ Repositório com processos seletivos realizados por empresas para vagas de desen
 
 ------------
 
+## Processos Seletivos Programador NODE
+
+## Processos Seletivos Programador ANDROID
+
+## Processos Seletivos Programador IONIC
+
+## Processos Seletivos Programador IOS
+
+## Processos Seletivos Programador JAVA
+
+## Processos Seletivos Programador JAVASCRIPT
 
