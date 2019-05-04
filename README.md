@@ -8,11 +8,11 @@ Repositório com Processos Seletivos Realizados Por Empresas Para Vagas de Desen
 | Teste Programador PHP | https://github.com/devssa/no-pain-no-brain/tree/master/LionSoft |
 | Teste Prático de PHP |  https://github.com/devssa/no-pain-no-brain/tree/master/Unknown_01  |
 | Exame para Programador PHP |    https://github.com/devssa/no-pain-no-brain/tree/master/Unknown_02 |
-| **_1_** |    [AWS]  | Newbie  |
-| **_2_** |    [Passport]  | Newbie  |
-| **_5_** |    [WATSON]  | Newbie  |
-| **_1_** |    [Swoole]  | Newbie  |
-| **_5_** |    [Laravel]  | Avançado  |
+| Desafio Desenvolvedor Backend |    https://github.com/devssa/no-pain-no-brain/tree/master/Polvo/Desenvolvedor%20Backend  |
+| Desafio Desenvolvedor Magento |    https://github.com/devssa/no-pain-no-brain/tree/master/Polvo/Desenvolvedor%20Magento  |
+| Desafio Programador PHP |    https://github.com/devssa/no-pain-no-brain/tree/master/Polvo/Desenvolvedor%20PHP  |
+| Desafio Desenvolvedor Wordpress |    https://github.com/devssa/no-pain-no-brain/tree/master/Polvo/Desenvolvedor%20WordPress  |
+| Desafio Estágio Backend |    https://github.com/devssa/no-pain-no-brain/tree/master/Polvo/Est%C3%A1gio%20Backend  |
 | **_1_** |    [Redis]  | Intermediário  |
 | **_1_** |    [Flutter]  | Intermediário  |
 | **_1_** |    [VUE]  | Intermediário  |
