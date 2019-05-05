@@ -38,7 +38,7 @@ feitos por empresas.
 ## Processos Seletivos Programador NODE
 | **Titulo**  | **Link**  |
 |---|---|
-| Teste Desenvolvedor NODE | https://github.com/devssa/no-pain-no-brain/tree/master/easy%20/Desenvolvedor%20NodeAnalista |
+| Teste Desenvolvedor NODE.js | https://github.com/devssa/no-pain-no-brain/tree/master/easy%20/Desenvolvedor%20Node |
 ------------
 
 ## Processos Seletivos Programador ANDROID
