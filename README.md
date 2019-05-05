@@ -27,8 +27,12 @@ feitos por empresas.
 | Teste prático - Laravel |    https://github.com/devssa/no-pain-no-brain/tree/master/Autogestor/Programador%20Laravel  |
 | Teste prático - Programador(a) PHP Pleno – Laravel |    https://github.com/devssa/no-pain-no-brain/tree/master/Biologia%20Total/Programador%20PHP%20Pleno  |
 | Processo seletivo para programador PHP  |    https://github.com/devssa/no-pain-no-brain/tree/master/PH2/Programador%20PHP  |
+------------
 
-
+## Processos Seletivos Programador JAVA
+| **Titulo**  | **Link**  |
+|---|---|
+| Desafio Analista Java Solutis | https://github.com/devssa/no-pain-no-brain/tree/master/Desafio%20Solutis/Analista%20de%20Sistemas/REDME.md |
 ------------
 
 ## Processos Seletivos Programador NODE
@@ -39,11 +43,6 @@ feitos por empresas.
 
 ## Processos Seletivos Programador IOS
 
-## Processos Seletivos Programador JAVA
-| **Titulo**  | **Link**  |
-|---|---|
-| Desafio Analista Java Solutis | https://github.com/devssa/no-pain-no-brain/tree/master/Desafio%20Solutis/Analista%20de%20Sistemas/REDME.md |
-------------
 
 ## Processos Seletivos Programador JAVASCRIPT
 
