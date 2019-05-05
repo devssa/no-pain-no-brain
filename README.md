@@ -40,6 +40,10 @@ feitos por empresas.
 ## Processos Seletivos Programador IOS
 
 ## Processos Seletivos Programador JAVA
+| **Titulo**  | **Link**  |
+|---|---|
+| Desafio Analista Java Solutis | https://github.com/devssa/no-pain-no-brain/tree/master/Desafio%20Solutis/Analista%20de%20Sistemas/REDME.md |
+------------
 
 ## Processos Seletivos Programador JAVASCRIPT
 
