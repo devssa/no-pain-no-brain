@@ -17,15 +17,15 @@ Crie um projeto no seu Github para que vejamos os passos feitos através dos com
 1. Você deverá desenvolver uma API (Restful) simples que receba uma requisição HTTP com uma string, e encontre o primeiro caractere Vogal, após uma consoante, onde a mesma é antecessora a uma vogal e que não se repita na string.
 
 ##### Premissas:
-Não será possível reiniciar o fluxo da leitura da string.
-Não poderá ser utilizado nenhum framework Java, apenas código nativo na identificação da vogal.
+Não será possível reiniciar o fluxo da leitura da string.  
+Não poderá ser utilizado nenhum framework Java, apenas código nativo na identificação da vogal.  
 
 ##### Exemplo:
-Input:  aAbBABacafe
-Output: e
-No exemplo, ‘e’ é o primeiro caractere Vogal da stream que não se repete após a primeira Consoante ‘f’o qual tem uma vogal ‘a’ como antecessora.
+Input:  aAbBABacafe  
+Output: e   
+No exemplo, ‘e’ é o primeiro caractere Vogal da stream que não se repete após a primeira Consoante ‘f’o qual tem uma vogal ‘a’ como antecessora.  
 
-E o resultado do processamento deverá ser igual á:
+E o resultado do processamento deverá ser igual á:  
 
 ```
 {
