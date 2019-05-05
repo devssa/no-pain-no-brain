@@ -32,7 +32,7 @@ feitos por empresas.
 ## Processos Seletivos Programador JAVA
 | **Titulo**  | **Link**  |
 |---|---|
-| Desafio Analista Java Solutis | https://github.com/devssa/no-pain-no-brain/tree/master/Desafio%20Solutis/Analista%20de%20Sistemas/REDME.md |
+| Desafio Analista Java | https://github.com/devssa/no-pain-no-brain/tree/master/Solutis/Analista%20de%20Sistemas%20Java |
 ------------
 
 ## Processos Seletivos Programador NODE
