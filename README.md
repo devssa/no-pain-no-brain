@@ -50,3 +50,17 @@ feitos por empresas.
 
 ## Processos Seletivos Programador JAVASCRIPT
 
+# EXTRA
+
+## Desafios de Programação
+
+| **Status**  | **Nome/Repositório**  | **Nível**  |
+|---|---|---|
+| [**_0%_**] |    [Encurtador de URL](https://github.com/me42th/desafios/tree/master/1%20-%20Easy/Encurtador%20de%20URL)  | Easy  |
+| [**_0%_**] |    [Criptografia](https://github.com/me42th/desafios/tree/master/2%20-%20Medium/Criptografia)  | Medium  |
+| [**_0%_**] |    [Pontos de Interesse por GPS](https://github.com/me42th/desafios/tree/master/3%20-%20Hard/Pontos%20de%20Interesse)  | Hard  |
+| [**_0%_**] |    [Blockchain](https://github.com/me42th/desafios/tree/master/4%20-%20Evil%20Genius/Blockchain)  | Evil Genius  |
+|  | Total Concluído  | 0 |
+
+
+
