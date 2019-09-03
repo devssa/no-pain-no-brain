@@ -2,7 +2,7 @@
 
 Repositório com processos seletivos realizados por empresas para vagas de desenvolvimento. O conteúdo foi coletado do github e não é de nossa autoria.
 
-Grupo do telegram https://t.me/joinchat/HqtPshCIreH1HyhlxNed8w
+Grupo do telegram https://t.me/co0da4r
 
 ## Qual o objetivo?
 
